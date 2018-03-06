@@ -3,7 +3,8 @@ body {
   margin: 0 auto;
 }
 
-container {
-  padding: 10px;
+body .container {
+  padding: 101px;
+  background-color: red;
 }
 /*# sourceMappingURL=style.prefixed.css.map */
